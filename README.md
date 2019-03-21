@@ -87,3 +87,7 @@ motd '50-mymotd' do
   action :delete
 end
 ```
+
+#### Change Log
+
+* 0.7.0 Kid tested and mother approved for chef-client 14+
